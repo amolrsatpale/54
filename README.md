@@ -27,7 +27,7 @@ Build a Leap Year Checker using Java Servlets. An HTML form accepts a year, and 
 1. Import the project into Eclipse as a Dynamic Web Project.
 2. Add Apache Tomcat as the server in Eclipse.
 3. Right-click project → Run As → Run on Server.
-4. Open browser and go to: http://localhost:8080/LeapYearApp/index.html
+4. Open browser and go to:  http://localhost:8080/LeapYear/index.html
 
 ## Servlet Concept Practiced
 
